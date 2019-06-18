@@ -8,4 +8,4 @@ this is **first** post in git hub.
 see my gitlab account [here](https://gitlab.com/zakysyahab14)
 
 this is my unfinish todos project
-![image](.desktop/project-git/todos.png)
+![TODOS.png](Image/TODOS.png)
